@@ -39,7 +39,7 @@ jobs:
         with:
           node-version: 20
           cache: npm # or pnpm / yarn
-          working-directory: docs
+          cache-dependency-path: '**/package-lock.json'
       - name: Setup Pages
         uses: actions/configure-pages@v4
       - name: Install dependencies
