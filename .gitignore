@@ -2,3 +2,4 @@
 **/.vitepress/cache
 **/.vitepress/dist
 .DS_Store
+**-tmp
