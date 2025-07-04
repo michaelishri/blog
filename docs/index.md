@@ -1,1 +1,1 @@
-# Cold Storage Blog
+<!--@include: ./posts/2025-07-04_initial_commit.md-->
