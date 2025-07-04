@@ -13,3 +13,5 @@ I'm not new to the tech industry or to knowledge sharing or even documenting my 
 But I just need to start, today, right now!
 
 So here I am, I've started. Stay tuned for more.
+
+Also posted here: https://dev.to/michaelishri/initial-commit-g70

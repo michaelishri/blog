@@ -45,3 +45,5 @@ So then lets assume you have some way of creating a new user account on the data
 The thing is, Laravel just makes building and securing API's so easy, there's little reason to not use it. I can only think of one example where you would need to store your database credentials in the client application. If you were building a database management tool like TablePlus and you wanted to have an "auto-login" feature for your user. That's it really.
 
 So, please don't expose your database server to the outside world. Keep it behind a secure network and use a REST API instead. Have authentication on your API and only send data your application needs, nothing more (avoid sending internal ID's, timestamps, sensitive data, etc).
+
+Also posted here: https://dev.to/michaelishri/dont-expose-your-database-to-the-world-3fke
