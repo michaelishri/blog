@@ -2,9 +2,9 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "Michael Ishri's Tech Blog",
-  description: "Documenting interesting technical things",
-  base: '/blog/',
+  title: "Cold Storage Blog",
+  description: "",
+  base: '/',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
